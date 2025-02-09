@@ -1,0 +1,101 @@
+﻿House ID,Area (sq ft),Bedrooms,Bathrooms,Garage,Year Built,Location,House Condition,Price (USD)
+1,1660,5,2,2,1950,Countryside,New,86187
+2,4572,4,3,1,1965,Downtown,Good,188311
+3,3892,5,3,1,2010,Downtown,Renovation Needed,436598
+4,1266,5,2,2,2013,Countryside,Renovation Needed,326633
+5,4244,3,2,1,2012,Downtown,New,239089
+6,3971,5,3,1,2018,Countryside,New,111877
+7,3719,4,3,2,1971,Downtown,Good,486341
+8,930,5,2,1,2016,Downtown,Good,362066
+9,2485,3,1,2,1975,Suburb,Renovation Needed,144074
+10,1569,3,1,1,1965,Suburb,Renovation Needed,213121
+11,3191,4,2,2,2000,Countryside,New,87131
+12,3233,2,1,2,2006,Suburb,Renovation Needed,486160
+13,1984,2,2,1,1978,Countryside,Good,165765
+14,4185,5,1,1,2018,Suburb,Good,386107
+15,4917,1,1,1,1996,Downtown,New,156884
+16,3704,5,3,0,2011,Countryside,Good,175917
+17,1274,4,3,0,2018,Countryside,Good,336429
+18,1882,4,1,0,1965,Downtown,Good,349770
+19,3358,4,1,2,1997,Countryside,Good,223880
+20,2847,4,3,1,1988,Countryside,New,497087
+21,3547,4,3,2,1982,Suburb,New,331342
+22,1775,3,3,0,1972,Countryside,Renovation Needed,462974
+23,2606,2,2,1,1959,Downtown,Good,65254
+24,989,4,1,2,2018,Suburb,Renovation Needed,94238
+25,3534,1,3,1,1983,Suburb,New,51252
+26,3805,1,1,2,2001,Downtown,New,351908
+27,2699,1,2,1,1959,Downtown,New,389853
+28,2067,1,2,0,1968,Suburb,New,480657
+29,2328,3,3,0,2007,Countryside,New,365826
+30,4002,1,2,1,1950,Suburb,New,371638
+31,4356,4,1,2,2018,Downtown,New,131317
+32,4690,5,3,0,1953,Suburb,Good,377359
+33,1446,1,1,0,1965,Downtown,Renovation Needed,128587
+34,3688,3,1,0,1973,Suburb,New,56949
+35,3235,3,2,1,1951,Countryside,Good,288897
+36,1400,1,2,1,1981,Suburb,Good,367537
+37,3163,5,2,2,1973,Suburb,Renovation Needed,254625
+38,2861,1,2,2,1961,Downtown,New,188013
+39,1041,3,2,2,1999,Downtown,Renovation Needed,75934
+40,2841,2,3,1,1984,Downtown,New,466602
+41,3624,4,1,1,1982,Suburb,Good,306434
+42,3412,3,1,2,1982,Countryside,Good,387889
+43,2163,1,1,2,2010,Downtown,Good,406600
+44,2278,4,1,1,2000,Downtown,Good,365557
+45,3356,1,2,2,1992,Suburb,Renovation Needed,409383
+46,1575,1,1,0,1961,Downtown,New,354462
+47,4814,2,3,1,2016,Countryside,New,300875
+48,834,4,3,2,2014,Countryside,Renovation Needed,120390
+49,3952,4,1,1,1982,Downtown,New,233401
+50,2755,2,1,0,1989,Downtown,Good,303490
+51,2385,3,3,1,1992,Suburb,New,93088
+52,4743,1,3,1,1993,Countryside,Good,297940
+53,3873,5,2,1,1978,Countryside,Renovation Needed,415340
+54,1821,1,3,1,1962,Downtown,New,483027
+55,4261,1,2,0,1961,Suburb,Renovation Needed,367623
+56,3413,3,2,1,1995,Countryside,New,266464
+57,4643,1,2,1,1951,Countryside,Good,268441
+58,2300,2,2,2,1984,Suburb,Renovation Needed,332107
+59,961,2,2,1,1957,Suburb,New,367267
+60,2781,4,1,2,1975,Countryside,Good,175911
+61,1795,5,3,0,1983,Countryside,Renovation Needed,414612
+62,4142,1,2,0,1956,Suburb,Renovation Needed,273777
+63,4598,1,3,0,2017,Countryside,New,385621
+64,2075,3,3,0,2007,Downtown,New,326532
+65,1816,2,2,2,1978,Downtown,New,55569
+66,1137,5,1,1,1985,Suburb,Good,119836
+67,1678,4,2,0,1970,Suburb,New,154573
+68,1876,2,1,1,1985,Suburb,Renovation Needed,479802
+69,4793,4,3,2,1959,Downtown,Renovation Needed,308090
+70,1179,3,1,2,2022,Countryside,New,193087
+71,1292,3,1,2,1973,Downtown,New,95002
+72,2862,1,1,0,2013,Countryside,Renovation Needed,297666
+73,4684,5,3,1,1998,Downtown,Good,187326
+74,864,4,3,1,1985,Countryside,New,460360
+75,3368,2,1,1,1973,Downtown,New,205286
+76,2827,3,1,2,1972,Suburb,Renovation Needed,261791
+77,3495,1,2,0,2011,Downtown,New,252846
+78,2295,1,1,2,1986,Countryside,Good,187162
+79,1191,4,2,2,1961,Downtown,Renovation Needed,192709
+80,4361,3,1,1,2004,Downtown,New,203487
+81,3078,5,2,2,1962,Downtown,Renovation Needed,74071
+82,3899,3,3,1,1972,Suburb,New,108243
+83,1000,4,1,0,1979,Downtown,New,437971
+84,3904,4,1,1,1966,Suburb,New,420359
+85,3254,3,1,0,2011,Suburb,Good,222312
+86,4445,4,1,1,1962,Downtown,Good,307218
+87,1604,3,2,2,2008,Downtown,Renovation Needed,264879
+88,3531,2,1,2,1968,Downtown,New,413714
+89,3573,3,3,0,1998,Countryside,New,476650
+90,2370,3,3,0,1961,Downtown,Good,381868
+91,3490,4,1,0,2010,Suburb,New,427503
+92,4640,4,3,1,1968,Downtown,Good,387841
+93,1828,1,1,1,1958,Countryside,New,78732
+94,1302,1,1,0,2020,Downtown,Renovation Needed,171465
+95,1670,2,3,2,1977,Countryside,New,454530
+96,1006,1,1,1,2001,Countryside,New,467170
+97,2284,3,3,1,1965,Downtown,Good,107108
+98,1663,4,2,1,2018,Suburb,New,161195
+99,3590,1,1,0,1961,Countryside,New,415225
+100,1363,1,2,0,1974,Downtown,Good,86668
